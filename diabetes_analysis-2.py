@@ -45,6 +45,8 @@ def _(mo):
 
 @app.cell
 def _():
+    # GitHub Repository: https://github.com/HarrisonF7/diabetes-midterm-project
+
     # Import pandas to work with our hospital dataset
     import pandas as pd
 
